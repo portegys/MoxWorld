@@ -19,8 +19,8 @@ Setup:
 <pre>
 1. Copy mona.jar and mona_jni.dll/libmona_jni.so from Mona installation to the
    lib directory. Mona can be obtained from https://github.com/portegys/mona.
-3. Build with the makefile (Unix), or Visual Studio files (Windows) in the src directory.
-4. Run .sh or .bat commands in the bin directory:
+2. Build with the makefile (Unix), or Visual Studio files (Windows) in the src directory.
+3. Run .sh or .bat commands in the bin directory:
    a. game_of_life: run Game of Life
    b. mox_world: run mox in Game of Life world.
    c. evolve and evolve_system: learn and evolve moxen in mox world.
